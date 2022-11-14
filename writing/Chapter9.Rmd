@@ -1,0 +1,46 @@
+---
+title: "Untitled"
+author: "Connor Stephens"
+date: "2022-11-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Test
+
+
+```{r get data}
+setwd("D:/MPH-Epi Documents/Semester 3/R Programming/InClass9/")
+getwd() #resets? unless whole block is ran
+list.files(path = "../data/")
+```
+
+
+```{r}
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
